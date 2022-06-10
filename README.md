@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Shilpabhalerao
+- 👋 Hi, I’m @Shilpabhalerao, Professor 
+- I am teaching Data Structure and Deep Learning subjects in UG
 - 👀 I’m interested in Ml and Deep learning algorithms.
 - 🌱 I’m currently learning Deep learning Practicals on live dataset 
 - 💞️ I’m looking to collaborate on Deep learning projects
